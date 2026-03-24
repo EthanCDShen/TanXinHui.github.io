@@ -1,4 +1,4 @@
-/* Additional custom styles beyond Tailwind */
+/* Custom styles beyond Tailwind */
 .btn-hover {
   transition: all 0.2s ease;
 }
